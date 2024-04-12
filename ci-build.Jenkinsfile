@@ -14,7 +14,7 @@ pipeline {
         }
         stage('Push Artifact') {
             steps {
-                echo 'Pushing Artefa'
+                echo 'Pushing Artefact'
             }
         }
     }
